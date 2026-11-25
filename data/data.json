@@ -1,0 +1,161 @@
+{
+ "piece": 1048576,
+ "pieces": 1305,
+ "total": 1357630809,
+ "size": 1357630809,
+ "files": [
+  {
+   "path": "CUSA01127/chunk1.psarc",
+   "size": 421978112,
+   "gz": false,
+   "first": 0,
+   "count": 403,
+   "bytes": 421978112,
+   "sha1": "493972c694d4edef"
+  },
+  {
+   "path": "CUSA01127/texture.qar",
+   "size": 892291044,
+   "gz": false,
+   "first": 403,
+   "count": 851,
+   "bytes": 892291044,
+   "sha1": "6f952e2499f6f5fd"
+  },
+  {
+   "path": "CUSA01127/pathid_list_ps4.bin",
+   "size": 93248,
+   "gz": false,
+   "first": 1254,
+   "count": 1,
+   "bytes": 93248,
+   "sha1": "bd557c1d3c7f9880"
+  },
+  {
+   "path": "ptrun/extras.pak",
+   "size": 13105907,
+   "gz": false,
+   "first": 1255,
+   "count": 13,
+   "bytes": 13105907,
+   "sha1": "38b6926b64b5f504"
+  },
+  {
+   "path": "ptrun/fonts/NotoSans.ttf",
+   "size": 2049096,
+   "gz": false,
+   "first": 1268,
+   "count": 2,
+   "bytes": 2049096,
+   "sha1": "e1487b2a5a5bc85d"
+  },
+  {
+   "path": "ptrun/fonts/NotoSansSC.ttf",
+   "size": 17772300,
+   "gz": false,
+   "first": 1270,
+   "count": 17,
+   "bytes": 17772300,
+   "sha1": "0a2195ed94416288"
+  },
+  {
+   "path": "ptrun/fonts/NotoKufiArabic.ttf",
+   "size": 434204,
+   "gz": false,
+   "first": 1287,
+   "count": 1,
+   "bytes": 434204,
+   "sha1": "8fcb8bc8a2907cc3"
+  },
+  {
+   "path": "ptrun/fonts/NotoNaskhArabic.ttf",
+   "size": 307592,
+   "gz": false,
+   "first": 1288,
+   "count": 1,
+   "bytes": 307592,
+   "sha1": "11056fff634e12cd"
+  },
+  {
+   "path": "ptrun/fonts/ArefRuqaa.ttf",
+   "size": 110696,
+   "gz": false,
+   "first": 1289,
+   "count": 1,
+   "bytes": 110696,
+   "sha1": "fbbec1f169d7c9b8"
+  },
+  {
+   "path": "ptrun/fonts/LongCang.ttf",
+   "size": 5162508,
+   "gz": false,
+   "first": 1290,
+   "count": 5,
+   "bytes": 5162508,
+   "sha1": "6a69e7c4656352d2"
+  },
+  {
+   "path": "ptrun/fonts/MarckScript.ttf",
+   "size": 83664,
+   "gz": false,
+   "first": 1295,
+   "count": 1,
+   "bytes": 83664,
+   "sha1": "73cae22e46c5bff3"
+  },
+  {
+   "path": "ptrun/fonts/Yomogi.ttf",
+   "size": 4045904,
+   "gz": false,
+   "first": 1296,
+   "count": 4,
+   "bytes": 4045904,
+   "sha1": "f178cb800ffe0fbb"
+  },
+  {
+   "path": "ptrun/survival/body_clips.json",
+   "size": 46071,
+   "gz": false,
+   "first": 1300,
+   "count": 1,
+   "bytes": 46071,
+   "sha1": "22bfbaa1bb4faeeb"
+  },
+  {
+   "path": "ptrun/survival/carry_poses.json",
+   "size": 8937,
+   "gz": false,
+   "first": 1301,
+   "count": 1,
+   "bytes": 8937,
+   "sha1": "a7813725ac073136"
+  },
+  {
+   "path": "ptrun/survival/guns.json",
+   "size": 6040,
+   "gz": false,
+   "first": 1302,
+   "count": 1,
+   "bytes": 6040,
+   "sha1": "6ac4a14bceb7f843"
+  },
+  {
+   "path": "ptrun/survival/hand_press.json",
+   "size": 129775,
+   "gz": false,
+   "first": 1303,
+   "count": 1,
+   "bytes": 129775,
+   "sha1": "2a81269c3585338e"
+  },
+  {
+   "path": "ptrun/survival/reloads.json",
+   "size": 5711,
+   "gz": false,
+   "first": 1304,
+   "count": 1,
+   "bytes": 5711,
+   "sha1": "6db041525904fb7f"
+  }
+ ]
+}
